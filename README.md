@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Chobi  
+CTO @ [PROJECT ELIV](https://eliv.kr)  
+Developer & Audio Engineer building systems for the web and sound.
 
-<!--
-**chobi025/chobi025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧩 Projects
+- **[PROJECT ELIV](https://eliv.kr)** — Domain registration & hosting platform.  
+- **[SEKAI](https://sekai.kr)** — Cloud-based voice synthesis engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Tech Focus
+Backend Engineering · Cloud Systems · Infrastructure Automation · Audio Technology  
+
+**Languages:** Go · PHP · Python · JavaScript  
+**Infra:** Proxmox · Docker · Cloudflare · OPNsense  
+**Tools:** Redis · MySQL · FRR/BIRD · WireGuard  
